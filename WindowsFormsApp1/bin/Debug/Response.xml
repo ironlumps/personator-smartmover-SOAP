@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<Response xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Records xmlns="http://schemas.datacontract.org/2004/07/WcfServiceMD.mdContactVerify">
+    <ResponseRecord>
+      <AddressDeliveryInstallation xsi:nil="true" />
+      <AddressExtras> </AddressExtras>
+      <AddressHouseNumber xsi:nil="true" />
+      <AddressKey>92886702231</AddressKey>
+      <AddressLine1>4031 Humboldt Ln</AddressLine1>
+      <AddressLine2> </AddressLine2>
+      <AddressLockBox xsi:nil="true" />
+      <AddressPostDirection xsi:nil="true" />
+      <AddressPreDirection xsi:nil="true" />
+      <AddressPrivateMailboxName xsi:nil="true" />
+      <AddressPrivateMailboxRange xsi:nil="true" />
+      <AddressRouteService xsi:nil="true" />
+      <AddressStreetName xsi:nil="true" />
+      <AddressStreetSuffix xsi:nil="true" />
+      <AddressSuiteName xsi:nil="true" />
+      <AddressSuiteNumber xsi:nil="true" />
+      <AddressTypeCode xsi:nil="true" />
+      <AreaCode xsi:nil="true" />
+      <CBSACode xsi:nil="true" />
+      <CBSADivisionCode xsi:nil="true" />
+      <CBSADivisionLevel xsi:nil="true" />
+      <CBSADivisionTitle xsi:nil="true" />
+      <CBSALevel xsi:nil="true" />
+      <CBSATitle xsi:nil="true" />
+      <CarrierRoute xsi:nil="true" />
+      <CensusBlock xsi:nil="true" />
+      <CensusKey xsi:nil="true" />
+      <CensusTract xsi:nil="true" />
+      <ChildrenAgeRange xsi:nil="true" />
+      <City>Yorba Linda</City>
+      <CityAbbreviation xsi:nil="true" />
+      <CompanyName> </CompanyName>
+      <CongressionalDistrict xsi:nil="true" />
+      <CountryCode xsi:nil="true" />
+      <CountryName xsi:nil="true" />
+      <CountyFIPS xsi:nil="true" />
+      <CountyName xsi:nil="true" />
+      <CountySubdivisionCode xsi:nil="true" />
+      <CountySubdivisionName xsi:nil="true" />
+      <CreditCardUser xsi:nil="true" />
+      <DateOfBirth xsi:nil="true" />
+      <DateOfDeath xsi:nil="true" />
+      <DeliveryIndicator xsi:nil="true" />
+      <DeliveryPointCheckDigit xsi:nil="true" />
+      <DeliveryPointCode xsi:nil="true" />
+      <DemographicsGender xsi:nil="true" />
+      <DemographicsResults xsi:nil="true" />
+      <DistanceAddressToIP xsi:nil="true" />
+      <DomainName xsi:nil="true" />
+      <Education xsi:nil="true" />
+      <ElementarySchoolDistrictCode xsi:nil="true" />
+      <ElementarySchoolDistrictName xsi:nil="true" />
+      <EmailAddress> </EmailAddress>
+      <EstimatedHomeValue xsi:nil="true" />
+      <EthnicCode xsi:nil="true" />
+      <EthnicGroup xsi:nil="true" />
+      <Gender xsi:nil="true" />
+      <Gender2 xsi:nil="true" />
+      <HouseholdIncome xsi:nil="true" />
+      <HouseholdSize xsi:nil="true" />
+      <IPAddress xsi:nil="true" />
+      <IPCity xsi:nil="true" />
+      <IPConnectionSpeed xsi:nil="true" />
+      <IPConnectionType xsi:nil="true" />
+      <IPContinent xsi:nil="true" />
+      <IPCountryAbbreviation xsi:nil="true" />
+      <IPCountryName xsi:nil="true" />
+      <IPDomainName xsi:nil="true" />
+      <IPISPName xsi:nil="true" />
+      <IPLatitude xsi:nil="true" />
+      <IPLongitude xsi:nil="true" />
+      <IPPostalCode xsi:nil="true" />
+      <IPProxyDescription xsi:nil="true" />
+      <IPProxyType xsi:nil="true" />
+      <IPRegion xsi:nil="true" />
+      <IPUTC xsi:nil="true" />
+      <Latitude xsi:nil="true" />
+      <LengthOfResidence xsi:nil="true" />
+      <Longitude xsi:nil="true" />
+      <MailboxName xsi:nil="true" />
+      <MaritalStatus xsi:nil="true" />
+      <MelissaAddressKey>4257050070</MelissaAddressKey>
+      <MelissaAddressKeyBase> </MelissaAddressKeyBase>
+      <MoveDate xsi:nil="true" />
+      <NameFirst xsi:nil="true" />
+      <NameFirst2 xsi:nil="true" />
+      <NameFull> </NameFull>
+      <NameLast xsi:nil="true" />
+      <NameLast2 xsi:nil="true" />
+      <NameMiddle xsi:nil="true" />
+      <NameMiddle2 xsi:nil="true" />
+      <NamePrefix xsi:nil="true" />
+      <NamePrefix2 xsi:nil="true" />
+      <NameSuffix xsi:nil="true" />
+      <NameSuffix2 xsi:nil="true" />
+      <NewAreaCode xsi:nil="true" />
+      <Occupation xsi:nil="true" />
+      <OwnRent xsi:nil="true" />
+      <PhoneCountryCode xsi:nil="true" />
+      <PhoneCountryName xsi:nil="true" />
+      <PhoneExtension xsi:nil="true" />
+      <PhoneNumber> </PhoneNumber>
+      <PhonePrefix xsi:nil="true" />
+      <PhoneSuffix xsi:nil="true" />
+      <PlaceCode xsi:nil="true" />
+      <PlaceName xsi:nil="true" />
+      <Plus4 xsi:nil="true" />
+      <PoliticalParty xsi:nil="true" />
+      <PostalCode>92886-7022</PostalCode>
+      <PresenceOfChildren xsi:nil="true" />
+      <PresenceOfSenior xsi:nil="true" />
+      <PrivateMailBox xsi:nil="true" />
+      <RecordExtras> </RecordExtras>
+      <RecordID>1</RecordID>
+      <Reserved> </Reserved>
+      <Results>AC02,AC03,AS01</Results>
+      <Salutation xsi:nil="true" />
+      <SecondarySchoolDistrictCode xsi:nil="true" />
+      <SecondarySchoolDistrictName xsi:nil="true" />
+      <State>CA</State>
+      <StateDistrictLower xsi:nil="true" />
+      <StateDistrictUpper xsi:nil="true" />
+      <StateName xsi:nil="true" />
+      <Suite xsi:nil="true" />
+      <TopLevelDomain xsi:nil="true" />
+      <TypesOfVehicles xsi:nil="true" />
+      <UTC xsi:nil="true" />
+      <UnifiedSchoolDistrictCode xsi:nil="true" />
+      <UnifiedSchoolDistrictName xsi:nil="true" />
+      <UrbanizationName xsi:nil="true" />
+    </ResponseRecord>
+  </Records>
+  <TotalRecords xmlns="http://schemas.datacontract.org/2004/07/WcfServiceMD.mdContactVerify">1</TotalRecords>
+  <TransmissionReference xmlns="http://schemas.datacontract.org/2004/07/WcfServiceMD.mdContactVerify"> </TransmissionReference>
+  <TransmissionResults xmlns="http://schemas.datacontract.org/2004/07/WcfServiceMD.mdContactVerify"> </TransmissionResults>
+  <Version xmlns="http://schemas.datacontract.org/2004/07/WcfServiceMD.mdContactVerify">5.2.8</Version>
+</Response>
